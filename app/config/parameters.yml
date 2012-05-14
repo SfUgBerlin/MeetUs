@@ -1,0 +1,13 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: localhost
+    database_port: '3066'
+    database_name: symfony
+    database_user: root
+    database_password: vagrant
+    mailer_transport: smtp
+    mailer_host: localhost
+    mailer_user: null
+    mailer_password: null
+    locale: de
+    secret: 382c6531ef4c04079242c72ce7c5163732b878f8
